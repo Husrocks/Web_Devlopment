@@ -1,0 +1,60 @@
+#ik{
+    background-color: #71cef3;
+    color: rgb(255, 255, 255);
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+#ol{
+    background-color: rgb(0, 0, 0);
+    color: rgb(255, 255, 255);
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+#olo{
+    background-color: black;
+    color: white;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+   
+}
+#oloo{
+    background-color: black;
+    color: white;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+#op{
+    background-color: #71cef3;
+    color: white;
+    font-size: larger;
+    font-weight: 200;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+#pooo{
+    background-color: black;
+}
+#pol{
+    background-color: black;
+}
+#poi{
+    background-color: #71cef3;
+    color: white;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+#ppp{
+    background-color: #71cef3
+    ;
+    color: white;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+#lol{
+    background-color: #71cef3;
+    color: white;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+#kk{
+    background-color:black;
+}
+#responsiveImage {
+    max-width: 100%; /* Image adjusts to the width of its container */
+    height: auto; /* Maintains aspect ratio */
+    display: block; /* Eliminates inline spacing issues */
+    margin: 0 auto; /* Centers the image if it's in a block-level container */
+}
+

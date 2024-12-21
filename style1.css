@@ -1,0 +1,57 @@
+/* General Reset */
+body, ul, li {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Arial, sans-serif;
+}
+
+/* Navbar Styling */
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: lightpink;
+    padding: 10px 20px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+.brand a {
+    text-decoration: none;
+    color: black;
+    font-size: 24px;
+    font-weight: bold;
+    transition: color 0.3s, text-shadow 0.3s;
+}
+
+.brand a:hover {
+    color: rgb(0, 0, 0);
+    text-shadow: 0 0 8px skyblue;
+}
+
+.nav-links {
+    list-style: none;
+    display: flex;
+    gap: 20px;
+}
+
+.nav-links a {
+    text-decoration: none;
+    color: black;
+    font-size: 16px;
+    font-weight: 500;
+    padding: 5px 10px;
+    border-radius: 4px;
+    transition: all 0.3s ease;
+}
+
+.nav-links a:hover {
+    color: white;
+    background-color: black;
+}
+
+/* Active Link Underline */
+.nav-links a:active,
+.nav-links a:focus {
+    text-decoration: underline;
+}
